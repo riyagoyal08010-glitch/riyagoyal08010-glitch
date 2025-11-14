@@ -23,11 +23,16 @@
 ---
 
 ### 📂 Featured Projects
+
 | Project | Description | Tools |
-|----------|--------------|-------|
-| [📈 Exploratory Data Analysis (EDA)](https://github.com/YOUR_USERNAME/eda-project) | Cleaned and visualized data to find patterns and insights | Pandas, Seaborn |
-| [📊 Student Performance Insights](https://github.com/YOUR_USERNAME/student-performance) | Visualized student scores and correlations | Matplotlib, NumPy |
-| [🧮 Simple Linear Regression](https://github.com/YOUR_USERNAME/linear-regression-demo) | First ML model for predicting study hours vs. scores | Scikit-learn, Python |
+|--------|-------------|--------|
+| [🧮 Basic Calculator](https://github.com/riyagoyal08010-glitch/Basic_Calculator) | Simple Python CLI calculator supporting basic arithmetic operations | Python |
+| [📝 To-Do List App](https://github.com/riyagoyal08010-glitch/To-Do_List) | Command-line task manager to add, view, and remove tasks | Python |
+| [🧠 Sudoku Solver](https://github.com/riyagoyal08010-glitch/sudoku-solver) | Backtracking-based Sudoku solver demonstrating recursion & algorithms | Python |
+| [✂️ Rock–Paper–Scissors Game](https://github.com/riyagoyal08010-glitch/rock-paper-scissors) | Interactive CLI game using random choice and conditional logic | Python |
+
+---
+
 
 ---
 
