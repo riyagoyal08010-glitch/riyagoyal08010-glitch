@@ -19,6 +19,11 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-2E8B57?style=flat-square&logo=seaborn&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Supervised-Learning](https://img.shields.io/badge/Supervised%20Learning-6A5ACD?style=for-the-badge&logo=googlecolab&logoColor=white
+)
 
 ---
 
@@ -26,7 +31,10 @@
 
 | Project | Description | Tools |
 |--------|-------------|--------
-| 📊 [Netflix EDA](https://github.comriyagoyal08010-glitch/Netflix_EDA_Project) | End-to-end exploratory data analysis using Pandas, Regex, Matplotlib & Jupyter Notebook on Kaggle’s Netflix dataset | Python, Pandas, NumPy, Matplotlib |
+
+📊 [Credit Card Default Prediction](https://github.com/riyagoyal08010-glitch/Credit-Card-Default-Payment-Predictor)
+ | End-to-end supervised ML project using Logistic Regression with complete EDA, feature engineering, model evaluation| Streamlit app deployment for credit risk prediction | Python, Pandas, NumPy, Scikit-learn, Matplotlib, Streamlit|
+| 📊 [Netflix EDA](https://github.com/riyagoyal08010-glitch/Netflix_EDA_Project) | End-to-end exploratory data analysis using Pandas, Regex, Matplotlib & Jupyter Notebook on Kaggle’s Netflix dataset | Python, Pandas, NumPy, Matplotlib |
 | 📰 [News Headlines App](https://github.com/riyagoyal08010-glitch/News-Headlines-App) | Live news-fetching app using an API to display real-time headlines with categories & search functionality | Python, API, Requests |
 | 🐶 [Random Dog Image Generator](https://github.com/riyagoyal08010-glitch/Random-DogImage-Generator) | Fetches random dog images using a public API and displays them through a clean Python interface | Python, API, Requests |
 | 😂 [Random Joke Generator](https://github.com/riyagoyal08010-glitch>/Random-Joke-Generator) | Retrieves random jokes from a joke API and outputs them in a fun, interactive Python CLI | Python, API, Requests |
@@ -38,26 +46,22 @@
 ---
 
 
----
-
-### 🌱 Currently Learning
+### 🌱 Currently Practicing
 - Machine Learning algorithms (Regression, Classification, Evaluation)
 - Feature Engineering & Data Preprocessing
 - Clean and efficient data visualization
-- AI fundamentals and model deployment (soon!)
+- AI fundamentals and model deployment 
+
+
 
 ---
 
-
-### 📈 GitHub Stats
-![Riya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=riyagoyal08010-glitch&show_icons=true&hide_border=true&theme=graywhite)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riyagoyal08010-glitch&layout=compact&hide_title=true&hide_border=true&theme=graywhite)
-
-
----
 
 ### 💬 Let’s Connect
-[LinkedIn](https://linkedin.com/in/riya-goyal-259703391/) • [Email](mailto:riyagoyal08010@gmail.com)
+[LinkedIn](https://linkedin.com/in/riya-goyal-259703391/) • [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riyagoyal08010@gmail.com)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/StarryDemon08)
+
+
 
 ---
 
